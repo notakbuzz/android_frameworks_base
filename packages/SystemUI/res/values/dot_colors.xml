@@ -28,11 +28,6 @@
     <color name="default_volume_transparency">#CCFFFFFF</color>
     <color name="accent_volume_transparency">#66FFFFFF</color>
 
-    <!-- Clear all notifications button -->
-    <color name="dismiss_all_background_color">@*android:color/monet_background_device_default</color>
-    <color name="dismiss_all_background_color_ripple">@*android:color/monet_background_secondary_device_default</color>
-    <color name="dismiss_all_icon_color">#8a000000</color>
-
     <!-- Color of the FOD view -->
     <color name="config_fodColorBackground">#00000000</color>
 </resources>

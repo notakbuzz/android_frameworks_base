@@ -22,6 +22,4 @@
 
     <color name="qs_draghandle_color">#e5e5e5</color>
 
-    <!-- Clear all notifications button -->
-    <color name="dismiss_all_icon_color">@android:color/white</color>
 </resources>
